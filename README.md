@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Nicolas 😁
+## welcome to my profile 😁
 
  <div>
    <a href="https://github.com/Nicolas-Sousa">
